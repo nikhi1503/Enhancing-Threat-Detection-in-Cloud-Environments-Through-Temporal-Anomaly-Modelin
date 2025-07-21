@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-22T04:29:28.636213",
+  "timestamp": "2025-07-22T04:54:04.471092",
   "incidents": [],
   "metrics": {
     "instance_info": {
@@ -8,6 +8,14 @@
       "zone": "us-central1-a",
       "last_start": "2025-07-21T15:34:52.998-07:00",
       "source": "gcloud_compute"
+    },
+    "cpu_utilization": {
+      "value": 11.87,
+      "timestamp": "2025-07-22T04:54:17.220178",
+      "unit": "percent",
+      "status": "NORMAL",
+      "instance_name": "alert-monitor-test",
+      "source": "simulated_realistic"
     }
   },
   "alerts": [

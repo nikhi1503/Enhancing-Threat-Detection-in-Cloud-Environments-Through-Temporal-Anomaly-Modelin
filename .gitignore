@@ -45,6 +45,7 @@ gcp-credentials.json
 *.json.key
 service-account-*.json
 
+
 # Logs
 *.log
 logs/
@@ -70,3 +71,5 @@ presentations/
 ehthumbs.db
 Thumbs.db
 cloud_intergration/
+
+gcp_credentials.json/
