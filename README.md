@@ -1,10 +1,26 @@
-# 🛡️ Enhancing Threat Detection in Cloud Environments ## 🚀 Quick Start
+# 🛡️ Enhancing Threat Detection in Cloud Environments Through Temporal Anomaly Modeling
+
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Machine Learning](https://img.shields.io/badge/ML-Scikit--Learn-orange.svg)](https://scikit-learn.org)
+[![Cloud](https://img.shields.io/badge/Cloud-GCP%20%7C%20AWS%20%7C%20Azure-blueviolet.svg)](https://cloud.google.com)
+[![Dashboard](https://img.shields.io/badge/Dashboard-Dash%20%7C%20Plotly-red.svg)](https://dash.plotly.com)
+
+> **Final Year Project** - Advanced cybersecurity solution for real-time threat detection in cloud environments using machine learning and temporal pattern analysis.
+
+## 📋 Project Overview
+
+This comprehensive project implements an **advanced threat detection system** for cloud environments using temporal anomaly modeling. The system leverages cutting-edge machine learning techniques to identify potential security threats by analyzing patterns in cloud infrastructure metrics over time.
+
+🎯 **Built for real-world application** with live GCP integration, real-time monitoring, and comprehensive incident response capabilities.
+
+## 🚀 Quick Start
 
 ### 🎯 One-Command Setup (Recommended)
 ```bash
 # Clone and setup everything automatically
-git clone <your-repo-url>
-cd "final year project/final"
+git clone https://github.com/nikhi1503/Enhancing-Threat-Detection-in-Cloud-Environments-Through-Temporal-Anomaly-Modelin.git
+cd Enhancing-Threat-Detection-in-Cloud-Environments-Through-Temporal-Anomaly-Modelin
 chmod +x setup.sh && ./setup.sh
 ```
 
@@ -112,7 +128,7 @@ chmod +x setup.sh
 
 1. **📁 Navigate to project**
    ```bash
-   cd "/path/to/final year project/final"
+   cd Enhancing-Threat-Detection-in-Cloud-Environments-Through-Temporal-Anomaly-Modelin
    ```
 
 2. **🔧 Create virtual environment**
@@ -598,7 +614,7 @@ We welcome contributions to enhance the threat detection system!
 
 ### 🚀 Getting Started
 1. **Fork** the repository
-2. **Clone** your fork: `git clone https://github.com/your-username/threat-detection.git`
+2. **Clone** your fork: `git clone https://github.com/nikhi1503/Enhancing-Threat-Detection-in-Cloud-Environments-Through-Temporal-Anomaly-Modelin.git`
 3. **Create** feature branch: `git checkout -b feature/amazing-feature`
 4. **Make** your changes with proper documentation
 5. **Test** thoroughly: `python -m pytest tests/`
@@ -752,9 +768,9 @@ python3 enhanced_dashboard.py
 
 *A comprehensive final year project demonstrating advanced cybersecurity techniques*
 
-[![⭐ Star this repo](https://img.shields.io/badge/⭐-Star%20this%20repo-yellow.svg)](https://github.com/your-username/threat-detection)
-[![🍴 Fork](https://img.shields.io/badge/🍴-Fork-blue.svg)](https://github.com/your-username/threat-detection/fork)
-[![📋 Issues](https://img.shields.io/badge/📋-Issues-red.svg)](https://github.com/your-username/threat-detection/issues)
+[![⭐ Star this repo](https://img.shields.io/badge/⭐-Star%20this%20repo-yellow.svg)](https://github.com/nikhi1503/Enhancing-Threat-Detection-in-Cloud-Environments-Through-Temporal-Anomaly-Modelin)
+[![🍴 Fork](https://img.shields.io/badge/🍴-Fork-blue.svg)](https://github.com/nikhi1503/Enhancing-Threat-Detection-in-Cloud-Environments-Through-Temporal-Anomaly-Modelin/fork)
+[![📋 Issues](https://img.shields.io/badge/📋-Issues-red.svg)](https://github.com/nikhi1503/Enhancing-Threat-Detection-in-Cloud-Environments-Through-Temporal-Anomaly-Modelin/issues)
 
 **Last Updated**: July 21, 2025 | **Version**: 2.0.0 | **Status**: ✅ Production Ready
 
