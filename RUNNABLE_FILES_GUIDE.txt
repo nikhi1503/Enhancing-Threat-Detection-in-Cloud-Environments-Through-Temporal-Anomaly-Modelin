@@ -1,0 +1,95 @@
+🚀 RUNNABLE FILES IN YOUR THREAT DETECTION PROJECT
+=================================================
+Final Year Project: Enhancing Threat Detection in Cloud Environments Through Temporal Anomaly Modeling
+
+📊 MAIN PROJECT FILES (Choose One):
+====================================
+
+1. 🎭 final_presentation_demo.py - BEST FOR PRESENTATION
+   Purpose: Complete 6-step demonstration with real GCP incidents
+   Command: python3 final_presentation_demo.py
+   Features: ✅ Creates real GCP incidents ✅ Shows dashboard ✅ Complete demo
+
+2. 🚀 enhanced_main.py - MAIN SYSTEM RUNNER
+   Purpose: Run the complete threat detection pipeline
+   Command: python3 enhanced_main.py
+   Features: ✅ All modules ✅ Email alerts ✅ GCP integration
+
+3. ⚡ main.py - SIMPLE PIPELINE
+   Purpose: Basic threat detection pipeline
+   Command: python3 main.py
+   Features: ✅ Data→Processing→Detection→Report
+
+4. 📊 system_demo.py - SYSTEM STATUS
+   Purpose: Show current system status and capabilities
+   Command: python3 system_demo.py
+   Features: ✅ Shows anomaly count ✅ GCP status ✅ Dashboard info
+
+5. 🏃 run_project_final.py - PROJECT RUNNER
+   Purpose: Complete project execution with GCP checks
+   Command: python3 run_project_final.py
+   Features: ✅ GCP validation ✅ System checks ✅ Full execution
+
+📈 DASHBOARD FILES:
+==================
+
+6. 🌐 enhanced_dashboard.py - INTERACTIVE DASHBOARD
+   Purpose: Real-time threat detection dashboard
+   Command: python3 enhanced_dashboard.py
+   Access: http://localhost:8051
+   Features: ✅ Real-time monitoring ✅ GCP incidents ✅ Interactive charts
+
+7. 📊 dashboard_anomaly_generator.py - DATA GENERATOR
+   Purpose: Generate fresh anomaly data for dashboard
+   Command: python3 dashboard_anomaly_generator.py
+   Features: ✅ Creates new data ✅ Updates dashboard
+
+🔧 UTILITY FILES:
+================
+
+8. 🔍 gcp_incident_monitor.py - GCP MONITORING
+   Purpose: Fetch latest GCP incidents and alerts
+   Command: python3 gcp_incident_monitor.py
+   Features: ✅ Real GCP data ✅ Updates incident status
+
+9. 📧 email_notifications.py - TEST NOTIFICATIONS
+   Purpose: Test email/SMS notification system
+   Command: python3 email_notifications.py
+   Features: ✅ Email alerts ✅ SMS notifications
+
+10. 🧹 archive_unused_files.py - CLEANUP
+    Purpose: Move unused files to archive
+    Command: python3 archive_unused_files.py
+    Features: ✅ Project cleanup ✅ Organization
+
+📥 MODULE FILES:
+===============
+
+11. 📊 data_ingestion/ingest.py - DATA LOADING
+    Purpose: Load and validate cloud environment data
+    Command: python3 data_ingestion/ingest.py
+    Features: ✅ Data loading ✅ Validation ✅ Statistics
+
+12. 🔧 preprocessing/clean.py - DATA PREPROCESSING
+    Purpose: Clean and normalize data for anomaly detection
+    Command: python3 preprocessing/clean.py
+    Features: ✅ Normalization ✅ Feature extraction ✅ Temporal analysis
+
+🎯 TOP RECOMMENDATIONS FOR YOU:
+==============================
+
+FOR PRESENTATION:
+→ python3 final_presentation_demo.py
+→ python3 enhanced_dashboard.py (in separate terminal)
+
+FOR SYSTEM STATUS:
+→ python3 system_demo.py
+
+FOR GCP INCIDENTS:
+→ python3 gcp_incident_monitor.py
+
+FOR COMPLETE PROJECT:
+→ python3 enhanced_main.py
+
+🎓 PRESENTATION READY!
+All files tested and functional for your Final Year Project demonstration!

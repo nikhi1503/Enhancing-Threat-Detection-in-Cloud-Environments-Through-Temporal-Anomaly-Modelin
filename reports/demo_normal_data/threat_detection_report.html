@@ -1,0 +1,49 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Threat Detection Report</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 40px; }
+                .header { color: #2c3e50; }
+                .summary { background-color: #ecf0f1; padding: 20px; border-radius: 5px; }
+                .anomaly-stats { background-color: #e8f5e8; padding: 15px; border-radius: 5px; margin-top: 20px; }
+                .warning { background-color: #fdf2e9; padding: 15px; border-radius: 5px; margin-top: 20px; }
+            </style>
+        </head>
+        <body>
+            <h1 class="header">Cloud Environment Threat Detection Report</h1>
+            <p><strong>Generated on:</strong> 2025-07-18 01:32:38</p>
+            
+            <div class="summary">
+                <h2>Summary Statistics</h2>
+                <ul>
+                    <li><strong>Total Data Points:</strong> 73</li>
+                    <li><strong>Anomalies Detected:</strong> 4</li>
+                    <li><strong>Anomaly Rate:</strong> 5.48%</li>
+                    <li><strong>Analysis Period:</strong> 2025-07-15 01:31:38.706522 to 2025-07-18 01:31:38.706522</li>
+                </ul>
+            </div>
+            
+            <div class="anomaly-stats"><h2>Anomaly Statistics</h2><ul><li><strong>Avg Cpu Usage:</strong> 0.338</li><li><strong>Avg Network Traffic:</strong> 0.414</li><li><strong>Avg Login Attempts:</strong> 2.5</li><li><strong>Max Cpu Usage:</strong> 0.801</li><li><strong>Max Network Traffic:</strong> 0.542</li><li><strong>Max Login Attempts:</strong> 5</li></ul></div>
+            
+            <div class="warning">
+                <h2>Recommendations</h2>
+                <ul>
+                    <li>Monitor high CPU usage patterns that may indicate resource exhaustion attacks</li>
+                    <li>Watch for unusual spikes in network traffic suggesting DDoS attacks</li>
+                    <li>Alert on excessive login attempts indicating brute force attacks</li>
+                    <li>Implement automated response systems for detected anomalies</li>
+                </ul>
+            </div>
+            
+            <h2>Generated Visualizations</h2>
+            <ul>
+                <li>Timeline Analysis: timeline_analysis.png</li>
+                <li>Anomaly Distribution: anomaly_distribution.png</li>
+                <li>Feature Correlation: feature_correlation.png</li>
+                <li>Anomaly Scores: anomaly_scores.png</li>
+            </ul>
+        </body>
+        </html>
+        

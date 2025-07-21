@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-07-21T20:08:23.980684",
+  "current_metrics": {
+    "cpu_usage": 0.9546450005694536,
+    "network_traffic": 5.077940829982762,
+    "failed_login_attempts": 94,
+    "anomaly_score": 1.0
+  },
+  "anomaly_detected": true,
+  "total_anomalies": 4,
+  "anomaly_rate": 0.16
+}

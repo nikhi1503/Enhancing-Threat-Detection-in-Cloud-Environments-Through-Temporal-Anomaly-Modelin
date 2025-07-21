@@ -1,0 +1,56 @@
+{
+  "timestamp": "2025-07-21T20:08:02.276802",
+  "incidents": [
+    {
+      "id": "11255733507642918722",
+      "name": "High CPU Utilization Alert - Real Instance",
+      "type": "ALERT_POLICY",
+      "status": "ACTIVE",
+      "severity": "HIGH",
+      "created_time": "2025-07-21T20:08:03.620111",
+      "description": "Alert policy: High CPU Utilization Alert - Real Instance",
+      "conditions": [
+        "CPU utilization > 80%"
+      ]
+    },
+    {
+      "id": "4795054637159183924",
+      "name": "TEST ALERT - Low CPU Threshold",
+      "type": "ALERT_POLICY",
+      "status": "ACTIVE",
+      "severity": "MEDIUM",
+      "created_time": "2025-07-21T20:08:03.620657",
+      "description": "Alert policy: TEST ALERT - Low CPU Threshold",
+      "conditions": [
+        "CPU utilization > 50% (TEST)"
+      ]
+    }
+  ],
+  "metrics": {},
+  "alerts": [
+    {
+      "name": "High CPU Utilization Alert - Real Instance",
+      "enabled": true,
+      "conditions": [
+        "CPU utilization > 80%"
+      ],
+      "notification_channels": 4,
+      "status": "ACTIVE"
+    },
+    {
+      "name": "TEST ALERT - Low CPU Threshold",
+      "enabled": true,
+      "conditions": [
+        "CPU utilization > 50% (TEST)"
+      ],
+      "notification_channels": 4,
+      "status": "ACTIVE"
+    }
+  ],
+  "summary": {
+    "total_incidents": 2,
+    "critical_alerts": 0,
+    "active_policies": 2,
+    "system_status": "INCIDENT"
+  }
+}
