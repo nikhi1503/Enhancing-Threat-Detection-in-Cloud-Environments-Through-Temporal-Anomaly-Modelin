@@ -26,6 +26,7 @@ MANIFEST
 venv/
 ENV/
 env/
+.github
 
 # IDE
 .vscode/
@@ -63,3 +64,6 @@ archive/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+
+/presentations
