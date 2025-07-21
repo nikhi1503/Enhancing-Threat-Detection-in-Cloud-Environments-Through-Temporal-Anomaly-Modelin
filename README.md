@@ -744,10 +744,15 @@ python3 enhanced_dashboard.py
 
 ## 🎉 Acknowledgments
 
-### 👨‍🏫 Academic Supervision
+### 👥 Project Contributors
+- **Nikhil** - Lead Developer & Research
+- **Girish** - Cloud Integration & Testing
+- **Ravi** - Data Analysis & Modeling
+
+### 🏫 Academic Institution
+- **Institution**: Nitte Meenakshi Institute of Technology
+- **Department**: Computer Science & Engineering
 - **Final Year Project Supervisor**: [Supervisor Name]
-- **Institution**: [University/College Name]
-- **Department**: Computer Science / Cybersecurity
 
 ### 🛠️ Technologies Used
 - **Machine Learning**: Scikit-learn, NumPy, Pandas
@@ -772,7 +777,7 @@ python3 enhanced_dashboard.py
 [![🍴 Fork](https://img.shields.io/badge/🍴-Fork-blue.svg)](https://github.com/nikhi1503/Enhancing-Threat-Detection-in-Cloud-Environments-Through-Temporal-Anomaly-Modelin/fork)
 [![📋 Issues](https://img.shields.io/badge/📋-Issues-red.svg)](https://github.com/nikhi1503/Enhancing-Threat-Detection-in-Cloud-Environments-Through-Temporal-Anomaly-Modelin/issues)
 
+**Project Team**: Nikhil, Girish, Ravi | **Institution**: Nitte Meenakshi Institute of Technology  
 **Last Updated**: July 21, 2025 | **Version**: 2.0.0 | **Status**: ✅ Production Ready
 
 </div>
-# Enhancing-Threat-Detection-in-Cloud-Environments-Through-Temporal-Anomaly-Modelin
