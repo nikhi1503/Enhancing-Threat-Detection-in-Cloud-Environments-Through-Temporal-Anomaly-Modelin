@@ -26,7 +26,9 @@ MANIFEST
 venv/
 ENV/
 env/
-.github
+
+# GitHub configuration
+.github/
 
 # IDE
 .vscode/
@@ -56,6 +58,9 @@ reports/*.pdf
 # Archive folder
 archive/
 
+# Presentations
+presentations/
+
 # OS generated files
 .DS_Store
 .DS_Store?
@@ -64,6 +69,3 @@ archive/
 .Trashes
 ehthumbs.db
 Thumbs.db
-
-
-/presentations
