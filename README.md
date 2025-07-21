@@ -751,8 +751,8 @@ python3 enhanced_dashboard.py
 
 ### 🏫 Academic Institution
 - **Institution**: Nitte Meenakshi Institute of Technology
-- **Department**: Computer Science & Engineering
-- **Final Year Project Supervisor**: [Supervisor Name]
+- **Department**: Information Science & Engineering
+- **Final Year Project Supervisor**: Deepika K M
 
 ### 🛠️ Technologies Used
 - **Machine Learning**: Scikit-learn, NumPy, Pandas
