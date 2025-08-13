@@ -746,7 +746,7 @@ python3 enhanced_dashboard.py
 
 ### 👥 Project Contributors
 - **Nikhil** - Lead Developer & Research
-- **Girish** - Cloud Integration & Testing
+- **Girish,Nikhil** - Cloud Integration & Testing
 - **Ravi** - Data Analysis & Modeling
 
 ### 🏫 Academic Institution
@@ -758,7 +758,7 @@ python3 enhanced_dashboard.py
 - **Machine Learning**: Scikit-learn, NumPy, Pandas
 - **Visualization**: Plotly, Dash, Matplotlib, Seaborn  
 - **Cloud Platforms**: Google Cloud Platform, AWS, Azure
-- **Development**: Python, VS Code, GitHub Copilot
+- **Development**: Python, VS Code
 
 ### 📚 Research References
 - Temporal anomaly detection methodologies
